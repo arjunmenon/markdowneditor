@@ -57,6 +57,13 @@ Add HTML
 ```
 
 
+#### Goals
+- Add image upload, table, font-selection, indentation, undo-redo controls
+- Improve onChange text area behaviour. Currently if you select a control, the `outEle div` does not reflect the change on the fly. Have to focus out to view it.
+- Bind Rich-text controls to ContentEditable
+- Transform to a WYSIWYG-style editor
+
+
 #### Notice
 
 Since this is still a work in progress, lot of cool stuff is being worked upon. You can also work on this immediately. Just give a pull request. I would review and include your changes.
