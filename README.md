@@ -56,4 +56,7 @@ Add HTML
 <div id="outEle"> </div>
 ```
 
+
+#### Notice
+
 Since this is still a work in progress, lot of cool stuff is being worked upon. You can also work on this immediately. Just give a pull request. I would review and include your changes.
