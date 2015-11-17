@@ -1,5 +1,5 @@
 # markdowneditor
-A very basic markdown based rich text editor.
+A very basic markdown based WYSIWYG editor.
 
 #### Dependencies
 Requires only jQuery and [microMarkdown Parser](http://simonwaldherr.github.io/micromarkdown.js/micromarkdown.js) *(weighs only 5kB)*
