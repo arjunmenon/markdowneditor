@@ -61,7 +61,7 @@ Add HTML
 - Add image upload, table, font-selection, indentation, undo-redo controls
 - Improve onChange text area behaviour. Currently if you select a control, the `outEle div` does not reflect the change on the fly. Have to focus out to view it.
 - Bind Rich-text controls to ContentEditable
-- Transform to a WYSIWYG-style editor
+- Transform to a  traditional and the very familiar WYSIWYG-style editor, where markdown coding is not required but yes markdown code can be viewed, though.
 
 
 #### Notice
