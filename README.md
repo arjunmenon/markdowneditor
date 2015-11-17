@@ -66,4 +66,4 @@ Add HTML
 
 #### Notice
 
-Since this is still a work in progress, lot of cool stuff is being worked upon. You can also work on this immediately. Just give a pull request. I would review and include your changes.
+Since this is still a work in progress, lot of cool stuff is being worked upon. You can also work on this immediately. All contributions are welcome.
